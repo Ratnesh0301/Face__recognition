@@ -49,7 +49,7 @@ cap = cv2.VideoCapture(0)
 #Face Detection
 face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_alt.xml")
 skip = 0
-dataset_path = './Data/'
+dataset_path = './'
 face_data = []
 labels = []  # Labels for the given file
 class_id = 0
