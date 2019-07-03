@@ -1,2 +1,3 @@
-# Face__recognition
-This a Facial Recognition project in which data is collected from the video camera.and then the KNN algorithm is used to learn the model and after the completion of learning. Model is able to detect the person in the video frame.
+#Parking Prediction of Vehicle
+
+In this repository you will find how neural networks can be used on image processing to detect in the image whether the parking slot is empty or free.
